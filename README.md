@@ -22,7 +22,7 @@ The SQL script file contains all the tasks to be performed. You must write your 
 
 Once you have written the solutions in the SQL script file, submit the same script file in the ‘Submission’ segment.
 
-** Dataset and Database Creation
+### Dataset and Database Creation
 
 1. Download the IMDb dataset
 
@@ -34,7 +34,7 @@ Once you have written the solutions in the SQL script file, submit the same scri
 
 5. If you wish to skip the data loading part, you can directly download the SQL script file with preloaded commands and begin querying.
 
-** Best Practices for Analysis
+### Best Practices for Analysis
 
 - Understand the data thoroughly before starting the assignment.
 
@@ -46,7 +46,7 @@ Once you have written the solutions in the SQL script file, submit the same scri
 
 - Cross-check results with given checkpoints to validate correctness.
 
-** Submission Requirements
+### Submission Requirements
 
 - SQL Script File: This contains the final SQL queries written under each respective question.
 
@@ -54,6 +54,6 @@ Once you have written the solutions in the SQL script file, submit the same scri
 
 - Final Submission: Place both files in a ZIP folder and submit it in the ‘Submission’ segment.
 
-** Contact
+### Contact
 
 For any queries or clarifications, feel free to reach out. Happy analyzing!
